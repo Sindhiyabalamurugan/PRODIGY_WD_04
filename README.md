@@ -7,9 +7,7 @@
 ### Project Title: Personal Portfolio Website
 
 #### Technologies Used:
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js (Optional for Contact Form Handling)
-- **Deployment:** GitHub Pages, Netlify, Vercel, or any preferred hosting platform
+- **Frontend:** HTML, CSS, JavaScript
 
 #### Description:
 
